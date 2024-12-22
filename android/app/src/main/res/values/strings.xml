@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ifq</string>
+    <string name="title_activity_main">ifq</string>
+    <string name="package_name">ionic.ifq</string>
+    <string name="custom_url_scheme">ionic.ifq</string>
+</resources>
